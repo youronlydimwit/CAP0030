@@ -24,5 +24,5 @@ Running the ML experiments, we did it on:
 * Jupyter Notebook on PC with RAM >= 8 GB
 * Python 2.4.1
 
-##Sources
+## Sources
 [Indonesian Batik Motifs](https://www.kaggle.com/dionisiusdh/indonesian-batik-motifs) - Kaggle
