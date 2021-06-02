@@ -30,5 +30,5 @@ Running the Android Studio Emulator, we did it on:
 * AMD RX 470 with RAM >= 10 GB
 
 ## Sources
-[Indonesian Batik Motifs](https://www.kaggle.com/dionisiusdh/indonesian-batik-motifs) - Kaggle
-[Klasifikasi motif batik menggunakan Convolutional Neural Network](http://lenteradua.net/jurnal/index.php/jnanaloka/article/view/2) - Journal
+- [Indonesian Batik Motifs](https://www.kaggle.com/dionisiusdh/indonesian-batik-motifs) - Kaggle
+- [Klasifikasi motif batik menggunakan Convolutional Neural Network](http://lenteradua.net/jurnal/index.php/jnanaloka/article/view/2) - Journal
