@@ -24,5 +24,11 @@ Running the ML experiments, we did it on:
 * Jupyter Notebook on PC with RAM >= 8 GB
 * Python 2.4.1
 
+## Android Studio Environment
+Running the Android Studio Emulator, we did it on:
+* Android Studio 4.1.1
+* AMD RX 470 with RAM >= 10 GB
+
 ## Sources
 [Indonesian Batik Motifs](https://www.kaggle.com/dionisiusdh/indonesian-batik-motifs) - Kaggle
+[Klasifikasi motif batik menggunakan Convolutional Neural Network](http://lenteradua.net/jurnal/index.php/jnanaloka/article/view/2) - Journal
